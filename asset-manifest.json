@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Yapona/static/css/main.1fe48664.chunk.css",
+    "main.js": "/Yapona/static/js/main.e55420b8.chunk.js",
+    "main.js.map": "/Yapona/static/js/main.e55420b8.chunk.js.map",
+    "runtime-main.js": "/Yapona/static/js/runtime-main.1c274303.js",
+    "runtime-main.js.map": "/Yapona/static/js/runtime-main.1c274303.js.map",
+    "static/js/2.8b2acdab.chunk.js": "/Yapona/static/js/2.8b2acdab.chunk.js",
+    "static/js/2.8b2acdab.chunk.js.map": "/Yapona/static/js/2.8b2acdab.chunk.js.map",
+    "index.html": "/Yapona/index.html",
+    "static/css/main.1fe48664.chunk.css.map": "/Yapona/static/css/main.1fe48664.chunk.css.map",
+    "static/js/2.8b2acdab.chunk.js.LICENSE.txt": "/Yapona/static/js/2.8b2acdab.chunk.js.LICENSE.txt",
+    "static/media/sushi.a2b4b921.jpg": "/Yapona/static/media/sushi.a2b4b921.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c274303.js",
+    "static/js/2.8b2acdab.chunk.js",
+    "static/css/main.1fe48664.chunk.css",
+    "static/js/main.e55420b8.chunk.js"
+  ]
+}
